@@ -98,7 +98,6 @@ public class Main {
 			booker.cancelTicket(id);
 		else
 			System.out.println("Passenger details unknown");
-	
 	}
 
 	public static void main(String[] args) {

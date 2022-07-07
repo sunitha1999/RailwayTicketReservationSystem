@@ -146,8 +146,5 @@ public class TicketBooker{
 			System.out.println("*********************************************");
 		}
 		
-	}
-	
-	
-	
+	}	
 }
