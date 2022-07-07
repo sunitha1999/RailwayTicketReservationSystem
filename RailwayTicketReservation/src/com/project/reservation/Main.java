@@ -1,5 +1,4 @@
 package com.project.reservation;
-
 import java.util.Scanner;
 
 public class Main {

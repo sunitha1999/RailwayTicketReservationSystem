@@ -19,5 +19,4 @@ public class Passenger {
 		this.allotted="";
 		this.seatNo=-1;
 	}
-	
 }

@@ -145,6 +145,5 @@ public class TicketBooker{
 			System.out.println("Status: "+p.seatNo+p.allotted);
 			System.out.println("*********************************************");
 		}
-		
 	}	
 }
