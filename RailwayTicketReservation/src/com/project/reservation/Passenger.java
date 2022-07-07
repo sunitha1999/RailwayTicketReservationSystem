@@ -2,6 +2,7 @@ package com.project.reservation;
 
 public class Passenger {
 
+	
 	static int id=1;//static variable to give id for every passenger
 	String passengerName;
 	int age;
