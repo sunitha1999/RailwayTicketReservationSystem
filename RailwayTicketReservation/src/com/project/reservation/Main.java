@@ -92,7 +92,7 @@ public class Main {
 	public static void cancelTicket(int id)
 	{
 		TicketBooker booker = new TicketBooker();
-		//check if passenger is valid
+		//check if passenger is valid by checking if id is present as key in map 
 		if(booker.passengerMap.containsKey(id))
 			booker.cancelTicket(id);
 		else

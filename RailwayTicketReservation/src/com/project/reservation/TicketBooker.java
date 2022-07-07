@@ -129,7 +129,6 @@ public class TicketBooker{
 		System.out.println("Available Waiting List: "+noOfavailableWL);
 		System.out.println("*******************************************");
 	}
-	
 	public void printPassenger()
 	{
 		if(passengerMap.size()==0)

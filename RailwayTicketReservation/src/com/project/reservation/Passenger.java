@@ -15,7 +15,7 @@ public class Passenger {
 		this.passengerName = passengerName;
 		this.age = age;
 		this.preferredBerth = preferredBerth;
-		this.passengerId=id++;
+		this.passengerId=id++;//increment id by 1
 		this.allotted="";
 		this.seatNo=-1;
 	}
