@@ -10,7 +10,6 @@ import java.util.HashMap;
 
 public class TicketBooker{
 	
-	
 	static int noOfAvailableLB=1;
 	static int noOfavailableMB=1;
 	static int noOfavailableUB=1;

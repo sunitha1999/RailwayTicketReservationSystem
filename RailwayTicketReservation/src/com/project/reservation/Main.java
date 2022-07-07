@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class Main {
 
-	
 	public static void bookTicket(Passenger p)
 	{
 		TicketBooker booker = new TicketBooker();
