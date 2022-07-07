@@ -2,6 +2,7 @@ package com.project.reservation;
 import java.util.Scanner;
 
 public class Main {
+
 	
 	public static void bookTicket(Passenger p)
 	{
